@@ -51,8 +51,8 @@ header h1{
 }
 
 nav{
+    width: 100px;
     background-color: #e67027;
-    width: 500px;
     margin: auto;
     color: white;
     font-family: var(--fontpadrao);
@@ -62,6 +62,7 @@ nav{
 }
 
 nav h2{
+    width: 300px;
     font-weight: lighter;
     text-indent: 5px;
     color: black;
