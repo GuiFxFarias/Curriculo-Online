@@ -64,9 +64,9 @@ nav{
 
 nav h2{
     max-width: 500px;
-    width: 100%;
     font-weight: lighter;
     text-indent: 5px;
+    width: 100%;
     color: black;
     background-color: var(--cor1);
     font-family: var(--fontdiferente);
