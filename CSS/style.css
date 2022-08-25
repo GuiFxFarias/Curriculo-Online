@@ -63,7 +63,8 @@ nav{
 }
 
 nav h2{
-    width: 500px;
+    width: 100%;
+    max-width: 500px;
     font-weight: lighter;
     text-indent: 5px;
     color: black;
